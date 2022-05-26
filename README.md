@@ -1,4 +1,7 @@
 # ReplicateAntikythera
+Welcome to the Replicate Antikythera Project!
+
+To get started, clone this repository onto your local PC. 
 Once the repository is cloned onto your local PC, unzip the contents. 
 Open the ReplicateAntikythera Folder.
 Open the ReplicateAntikytheraReport Folder.
